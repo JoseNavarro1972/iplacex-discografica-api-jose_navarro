@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 .gradle
 build/
@@ -35,3 +36,22 @@ out/
 
 ### VS Code ###
 .vscode/
+=======
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Eclipse
+.project
+.classpath
+
+# IDEA
+.idea
+*.iml
+out/
+
+# Misc
+*.log
+.DS_Store
+>>>>>>> 1876a5d915e652f49422e59f11e23ba18742701a
